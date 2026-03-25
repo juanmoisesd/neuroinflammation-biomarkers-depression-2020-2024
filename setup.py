@@ -1,13 +1,2 @@
-from setuptools import setup, find_packages
-setup(
-    name="neuroinflammation-biomarkers-depression-2020-2024",
-    version="1.0.0",
-    description="Global dataset of neuroinflammation biomarkers (IL-6, TNF-alpha, CRP) in depression and major depres",
-    author="de la Serna, Juan Moisés",
-    url="https://github.com/juanmoisesd/neuroinflammation-biomarkers-depression-2020-2024",
-    packages=find_packages(),
-    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
-    python_requires=">=3.7",
-    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
-    keywords="biomarkers, crp, dataset, depression, il-6, mental-health, neuroinflammation, open-data, tnf-alpha, zenodo, open-data",
-)
+from setuptools import setup,find_packages
+setup(name="neuroinflammation-biomarkers-depression-2020-2024",version="1.0.0",description="Global dataset of neuroinflammation biomarkers (IL-6, TNF-alpha, CRP) in depression and major depres" ,author="de la Serna, Juan Moisés",url="https://github.com/juanmoisesd/neuroinflammation-biomarkers-depression-2020-2024",packages=find_packages(),install_requires=["pandas>=1.3.0","requests>=2.26.0"],python_requires=">=3.7",keywords="biomarkers, crp, dataset, depression, il-6, mental-health, neuroinflammation, open-data, tnf-alpha, zenodo, open-data")

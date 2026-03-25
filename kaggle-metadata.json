@@ -1,0 +1,23 @@
+{
+  "title": "Global dataset of neuroinflammation biomarkers (IL-6, TNF-alpha, CRP) in depress",
+  "id": "juanmoisesd/neuroinflammation-biomarkers-depression-2020-2024",
+  "licenses": [
+    {
+      "name": "CC BY 4.0"
+    }
+  ],
+  "keywords": [
+    "biomarkers",
+    "crp",
+    "dataset",
+    "depression",
+    "il-6",
+    "mental-health",
+    "neuroinflammation",
+    "open-data",
+    "tnf-alpha",
+    "open-data"
+  ],
+  "description": "Global dataset of neuroinflammation biomarkers (IL-6, TNF-alpha, CRP) in depression and major depressive disorder. Meta-analyses 2020-2024. DOI: 10.7910/DVN/QBQXKL\n\nDOI: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QBQXKL\nGitHub: https://github.com/juanmoisesd/neuroinflammation-biomarkers-depression-2020-2024\nAuthor: de la Serna, Juan Moisés",
+  "isPrivate": false
+}
